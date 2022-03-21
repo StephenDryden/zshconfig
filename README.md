@@ -1,2 +1,0 @@
-# zshconfig
-My zsh config
